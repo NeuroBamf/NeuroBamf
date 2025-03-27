@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Neuro.
 - 👀 I’m interested in programming and cybersecurity.
 - 🌱 I’m currently learning javascript, html, css, java, and python. 
-- 💞️ I’m looking to collaborate on a lot of different projects to improve my portfolio and create many useful applications.
+- I’m looking to collaborate on projects to improve my portfolio and create many useful applications.
