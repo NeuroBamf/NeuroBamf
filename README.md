@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Neuro.
+- 👋 Hi, call me Neuro, C, or Howard.
 - 👀 I’m interested in programming and cybersecurity.
-- 🌱 I’m currently learning javascript, html, css, java, and python. 
+- 🌱 My preferred programming languages are python and javascript.
 - I’m looking to collaborate on projects to improve my portfolio and create many useful applications.
